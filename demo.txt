@@ -1,1 +1,10 @@
-this is the demo for git
+git init
+git status
+git add .
+git status
+git commit -m "ghi chú"
+git config --global user.email "phik07tx02102002@gmail.com"
+git config global user.name "PhiHoangKhong"
+git commit -m "ghi chú"
+git remote add origin https://
+git push -u origin master
